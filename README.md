@@ -263,13 +263,3 @@ docker compose down -v
 * Usar volúmenes para bases de datos
 
 ---
-
-# ✅ Conclusiones
-
-1. Docker Compose permite gestionar múltiples servicios de forma sencilla y eficiente, facilitando el desarrollo de arquitecturas basadas en microservicios.
-
-2. El uso de volúmenes garantiza la persistencia de datos, evitando pérdidas al reiniciar contenedores.
-
-3. Los archivos `.env` y los healthchecks mejoran la configuración y el control del ciclo de vida de los servicios.
-
----
